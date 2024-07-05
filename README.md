@@ -1,4 +1,4 @@
-I'm a prior veterinary professional who recently made a career change to software development.
+I'm a former veterinary professional who recently made a career change to software development.
 
 Working in high-volume specialty veterinary emergency and surgery practices, I learned the value of working cooperatively within a team and the necessity for creative problem solving when the cases didn't follow the rules. I discovered my love of tech when researching and implementing solutions to reduce face-to-face interactions in a healthcare field during the pandemic.
 
